@@ -31,4 +31,5 @@ To go to specific commit:
 To remote our files to github...OR...push an existing repository from the command line
 (FOR LESS CONFUSION LINK WOULD BE PROVIDED IN THE GITHUB):
     git remote add origin https://github.com/viraj-ashar/Django-Password_Generator.git
+    git branch -M main
     git push -u origin main
