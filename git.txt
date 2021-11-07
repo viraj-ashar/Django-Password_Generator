@@ -8,5 +8,10 @@ give identity :
 to check what's currently going in our git repository:
     git status
 
-to add all our recent files to our project in our git(So that it gets updated with our edited files):
+to add/(get ready for stage) all our recent files to our project in our git
+(So that it gets updated with our edited files, they won't get's commited but they are stages to commit
+YET PENDING TO COMMIT):
     git add -A
+
+To commit our staged files with a message m i.e "Our First Commit":
+    git commit - m "Our first commit"
