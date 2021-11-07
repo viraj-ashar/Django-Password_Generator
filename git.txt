@@ -21,3 +21,10 @@ To commit our staged files with a message m i.e "Our First Commit":
 
 To go to our previous commit:
     git stash
+
+To see our all commits:
+    git log
+
+To go to specific commit:
+    git checkout <COMMIT ID>
+
