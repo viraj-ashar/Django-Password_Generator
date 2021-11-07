@@ -28,3 +28,7 @@ To see our all commits:
 To go to specific commit:
     git checkout <COMMIT ID>
 
+To remote our files to github...OR...push an existing repository from the command line
+(FOR LESS CONFUSION LINK WOULD BE PROVIDED IN THE GITHUB):
+    git remote add origin https://github.com/viraj-ashar/Django-Password_Generator.git
+    git push -u origin main
