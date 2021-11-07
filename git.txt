@@ -14,4 +14,4 @@ YET PENDING TO COMMIT):
     git add -A
 
 To commit our staged files with a message m i.e "Our First Commit":
-    git commit - m "Our first commit"
+    git commit - m "Our first commit "
