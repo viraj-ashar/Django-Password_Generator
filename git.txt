@@ -1,0 +1,12 @@
+initialize git folder : 
+    git init
+
+give identity :
+    git config --global user.name "viraj-ashar"
+    git config --global user.email virajasharcse@gmail.com
+
+to check what's currently going in our git repository:
+    git status
+
+to add all our recent files to our project in our git(So that it gets updated with our edited files):
+    git add -A
